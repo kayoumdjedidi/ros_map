@@ -4,3 +4,11 @@
   long: -0.578986
   description: hobbyist & researcher
   link: https://github.com/amineHorseman
+
+- name: OORB (Open Organic Robotics)
+  type: company
+  lat: 35.78913
+  long: 10.62700
+  description: AI-native open-source robotics startup based in Sousse, Tunisia. Focused on ROS, hardware, and cloud-integrated developer tools.
+  link: https://oorb.io
+  address: Av Lammine Abassi, Zaouiet Sousse, Sousse, Tunisia, 4081
